@@ -1,5 +1,7 @@
 ---
 
+![简体中文README](https://github.com/HuizhouCityCollageEV/AquaGuardian/blob/main/README_CN.md)  
+
 # AquaGuardian  
 ## Open Source Smart Water Quality Monitoring System for Aquariums, Pools & Aquaculture
 
@@ -78,7 +80,7 @@ We've developed a custom mobile application that allows users to:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourname/AquaGuardian.git
+git clone https://github.com/HuizhouCityCollageEV/AquaGuardian.git
 ```
 
 2. Navigate into the project folder:
@@ -130,9 +132,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 💬 Get in Touch
 
-- 🐦 Twitter: [@YourTwitterHandle]
 - 📧 Email: yourmail@example.com
-- 🌐 Website: [yourwebsite.com] *(optional)*
+- 🌐 Website: [yusirx.top] *(optional)*
 
 ---
 
