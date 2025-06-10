@@ -1,16 +1,15 @@
----
-
-![简体中文README](https://github.com/HuizhouCityCollageEV/AquaGuardian/blob/main/README_CN.md)  
+---  
 
 # AquaGuardian  
-## Open Source Smart Water Quality Monitoring System for Aquariums, Pools & Aquaculture
+## Open Source Smart Water Quality Monitoring System for Aquariums, Pools & Aquaculture  
 
+![简体中文README](https://github.com/HuizhouCityCollageEV/AquaGuardian/blob/main/README_CN.md)  
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
 ![License](https://img.shields.io/github/license/yourname/AquaGuardian)  
 
 > 🌊 **AquaGuardian** is an open-source smart water quality monitoring system based on ESP32, designed for aquariums, swimming pools, and aquaculture environments. It integrates TDS, pH, turbidity, temperature, and humidity sensors to provide real-time water data with automated alerts, cloud connectivity, and mobile app support.
 
----
+---  
 
 ## 📌 Features
 
