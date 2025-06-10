@@ -1,9 +1,9 @@
 ---  
+[简体中文](README_CN.md)
 
 # AquaGuardian  
 ## Open Source Smart Water Quality Monitoring System for Aquariums, Pools & Aquaculture  
 
-![简体中文README](https://github.com/HuizhouCityCollageEV/AquaGuardian/blob/main/README_CN.md)  
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
 ![License](https://img.shields.io/github/license/yourname/AquaGuardian)  
 
